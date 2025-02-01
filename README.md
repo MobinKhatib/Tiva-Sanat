@@ -1,5 +1,5 @@
-## Tiva-Sanat
-# Car Recognition
+# Tiva-Sanat
+## Car Recognition
 The Car_Recognition folder is a file contains a code in python language which is trying to configure which car is in the picture.
 
 The dataset involves 5 types of Iranian car which a samples of them has shown in the file:
