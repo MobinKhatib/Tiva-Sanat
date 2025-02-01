@@ -1,4 +1,4 @@
-# Tiva-Sanat
+## Tiva-Sanat
 # Car Recognition
 The Car_Recognition folder is a file contains a code in python language which is trying to configure which car is in the picture.
 
